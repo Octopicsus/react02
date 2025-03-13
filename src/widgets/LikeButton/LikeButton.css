@@ -14,7 +14,7 @@
 }
 
 .icon {
-    background-image: url('/public/like.svg');
+    background-image: url('/assets/img/like.svg');
     background-position: center;
     background-repeat: no-repeat;
     width: 23px;
@@ -41,7 +41,7 @@
     position: relative;
 }
 
-.backgroundCount::after{
+.backgroundCount::after {
     content: '';
     background-color: rgb(255, 255, 255);
     width: 100%;

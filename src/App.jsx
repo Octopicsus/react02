@@ -56,7 +56,7 @@ function App() {
 
   return (
     <>
-      <img src="/public/marvel-logo.svg" alt="logo" />
+    <img src="/assets/img/marvel-logo.svg" alt="logo" />
       <div className="cards-container">
         {!heroes.length && <span>No heroes</span>}
         {heroes.map((hero) => (
