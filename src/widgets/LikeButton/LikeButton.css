@@ -1,0 +1,69 @@
+.btn-wrapper {
+    width: 100%;
+    height: 40px;
+    background-color: rgba(0, 255, 255, 0);
+    border-radius: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2px;
+    padding: 10px;
+}
+
+.icon {
+    background-image: url('/public/like.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 23px;
+    height: 23px;
+}
+
+.count {
+    color: rgb(255, 255, 255);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+
+.backgroundCount {
+    font-size: 14px;
+    width: 30px;
+    height: 30px;
+    color: rgba(0, 0, 0, 0.39);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    position: relative;
+}
+
+.backgroundCount::after{
+    content: '';
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    border-radius: 50%;
+    filter: blur(5px);
+}
+
+button {
+    border: none;
+    cursor: pointer;
+    z-index: 10;
+}
+
+button:active {
+    border: none;
+    outline: none;
+}
+
+button:focus {
+    border: none;
+    outline: none;
+}

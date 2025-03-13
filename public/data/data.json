@@ -1,0 +1,32 @@
+{
+    "iron": {
+        "id": "1",
+        "title": "iron man",
+        "img": "/public/ironman.jpg",
+        "lable": "/public/iron_lable.png"
+    },
+    "hulk": {
+        "id": "2",
+        "title": "hulk",
+        "img": "/public/hulk.jpg",
+        "lable": "/public/hulk_lable.png"
+    },
+    "cap": {
+        "id": "3",
+        "title": "capitan",
+        "img": "/public/cap.jpg",
+        "lable": "/public/capitan_lable.png"
+    },
+    "strange": {
+        "id": "5",
+        "title": "dr. strange",
+        "img": "/public/strange.jpg",
+        "lable": "/public/strange_lable.png"
+    },
+    "thor": {
+        "id": "4",
+        "title": "thor",
+        "img": "/public/thor.jpg",
+        "lable": "/public/thor_lable.png"
+    }
+}
