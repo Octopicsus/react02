@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0) -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill:transparent;}
+		.st1{fill:none;stroke:#FFFFFF;stroke-width:2;}
+		.st2{fill:none;stroke:#FFFFFF;stroke-width:2.0599;}
+		.st3{fill:none;stroke:#FFFFFF;stroke-width:2.0155;}
+		.st4{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:square;}
+		.st5{fill:#FFFFFF;}
+	</style>
+	<title>
+		Layer 1
+	</title>
+	<g>
+		<rect id="rect4340" x="1.5" y="262.1" class="st0" width="996.9" height="475.8" />
+		<g id="layer2">
+			<path id="path4142" class="st1" d="M153.3,321h688.8v278.7H153.3V321z" />
+		</g>
+		<!-- <g id="layer3">
+			<path id="path4145" class="st1" d="M301.3,665.6v-22.3h-12.5h24.4" />
+			<path id="path4145-2" class="st1" d="M408.7,640.2c0,26.2,2.6,24-11.7,24c-13.3,0-10.6,2.1-10.6-24" />
+			<path id="path4177" class="st1" d="M489.9,643.6h16.9c0,0,5.3-0.4,5.5,10.1c0.2,9.8-5.5,9.5-5.5,9.5h-16.9V643.6z" />
+			<path id="path4177-1" class="st2" d="M592.1,642.3l0.4,23.6L592.1,642.3z" />
+			<path id="path4177-0" class="st3" d="M674,655c0.1-12.2-1.7-10.2,11.5-10.3c13.9-0.1,12.2-1.5,12.3,10.4c0.1,10.9,2,9.1-12.3,9.3
+			C672,664.4,673.9,665.5,674,655z" />
+			<path id="path4268" class="st4" d="M778.1,661.6v1.1c-0.1,1.9-0.1,1.9,2.1,1.9l16.8,0.1c2.2,0,2.3,0.6,2.3-2l0-5.6
+			c0-2.8,0.5-2.8-3.2-2.8c0,0-14.7,0-16.7,0c-1.5-0.2-1-0.5-1.1-2.2v-5.5c-0.1-1.5,0-1.2,1.8-1.3l17,0c2.3,0,2.3,0,2.3,1.8v0.4" />
+			<path id="path4268-4" class="st4" d="M195.5,658.7l0,1.5c-0.2,2.4-0.4,1.5,1.8,1.4l16.9,0.1c2.2,0,2.3,0.6,2.3-2l0-5.6
+			c0-2.8,0.5-2.9-3.2-2.9c0,0-14.7,0.1-16.7,0.1c-1.5-0.2-1-0.5-1.1-2.2l-0.2-5.5c-0.1-1.5,0.2-1.2,2-1.3l16.8,0
+			c2.3,0,2.3,0,2.3,1.8v0.4" />
+		</g> -->
+		<g id="g2505" transform="matrix(0.72718451,0,0,-0.72718449,-1.3925872,383.91011)">
+			<path id="path2509" class="st5" d="M1030.5,56.5h53.6v-262.5h45.5v-66.2h-99.1V56.5L1030.5,56.5z" />
+			<path id="path2515" class="st5" d="M661-100c38.5,2.4,35,51.8,35,51.8C690.1,0,661-2.4,661-2.4V-100z M537.4-175.8l-16.3,99.9
+			l-14-99.9H537.4L537.4-175.8z M242.5-270.9V56.5h72.3l25.6-137.3l29.1,137.3h69.9v-295l45.5,295H556l44.3-295V55.3h94.4
+			c0,0,32.6-6,49-53l-7,54.2h57.1l26.8-169.8l28,168.6h160.9V-6.1h-47.8v-67.4h45.5v-68.6h-44.3v-62.6h46.6v-66.2H905.7V44.5
+			l-53.6-315.4H788L754.2-61.4c0,0-5.8-57.8-37.3-84.3l40.8-125.2h-56l-39.6,109.6v-109.6H549l-5.8,31.3h-43.1l-9.3-31.3H383.5
+			v120.4l-28-120.4h-29.1l-25.6,119.2v-118L242.5-270.9z" />
+		</g>
+	</g>
+</svg>
