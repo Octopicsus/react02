@@ -14,7 +14,7 @@
 }
 
 .icon {
-    background-image: url('/assets/img/like.svg');
+    background-image: url('/data/assets/img/like.svg');
     background-position: center;
     background-repeat: no-repeat;
     width: 23px;
