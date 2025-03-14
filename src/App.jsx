@@ -75,6 +75,7 @@ function App() {
       <button className="show-hero" onClick={handleShowHero}>
         {showWinner ? "Play again" : "Who is our hero?"}
       </button>
+      <div className="overlay-shadow"></div>
     </>
   );
 }
