@@ -2,31 +2,31 @@
     "iron": {
         "id": "1",
         "title": "iron man",
-        "img": "/react02/public/img/ironman.jpg",
-        "lable": "/react02/public/img/iron_lable.png"
+        "img": "./img/ironman.jpg",
+        "lable": "./img/iron_lable.png"
     },
     "hulk": {
         "id": "2",
         "title": "hulk",
-        "img": "/react02/public/img/hulk.jpg",
-        "lable": "/react02/public/img/hulk_lable.png"
+        "img": "./img/hulk.jpg",
+        "lable": "./img/hulk_lable.png"
     },
     "cap": {
         "id": "3",
         "title": "capitan",
-        "img": "/react02/public/img/cap.jpg",
-        "lable": "/react02/public/img/capitan_lable.png"
+        "img": "./img/cap.jpg",
+        "lable": "./img/capitan_lable.png"
     },
     "strange": {
         "id": "5",
         "title": "dr. strange",
-        "img": "/react02/public/img/strange.jpg",
-        "lable": "/react02/public/img/strange_lable.png"
+        "img": "./img/strange.jpg",
+        "lable": "./img/strange_lable.png"
     },
     "thor": {
         "id": "4",
         "title": "thor",
-        "img": "/react02/public/img/thor.jpg",
-        "lable": "/react02/public/img/thor_lable.png"
+        "img": "./img/thor.jpg",
+        "lable": "./img/thor_lable.png"
     }
 }
