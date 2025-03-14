@@ -76,6 +76,7 @@ function App() {
         {showWinner ? "Play again" : "Who is our hero?"}
       </button>
       <div className="overlay-shadow"></div>
+      <div className="space"></div>
     </>
   );
 }
