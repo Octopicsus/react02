@@ -19,26 +19,28 @@ function App() {
   };
 
   const showOurHero = (votes) => {
-    const voteCounts = {};
+    const voteCounts = [];
     let maxVotes = 0;
     let ourHero = "";
 
     for (let i = 0; i < votes.length; i++) {
-      let heroId = votes[i];
+      const heroId = votes[i];
 
-      if (voteCounts[heroId]) {
-        voteCounts[heroId]++;
+      const heroIndex = voteCounts.findIndex((item) => item.heroId === heroId);
+
+      if (heroIndex !== -1) {
+        voteCounts[heroIndex].count++;
       } else {
-        voteCounts[heroId] = 1;
+        voteCounts.push({ heroId: heroId, count: 1 });
       }
     }
 
-    for (let hero in voteCounts) {
-      if (voteCounts[hero] > maxVotes) {
-        maxVotes = voteCounts[hero];
-        ourHero = hero;
+    voteCounts.forEach((item) => {
+      if (item.count > maxVotes) {
+        maxVotes = item.count;
+        ourHero = item.heroId;
       }
-    }
+    });
 
     return ourHero;
   };
@@ -52,11 +54,9 @@ function App() {
     }
   };
 
-  // const winner = showWinner ? showOurHero(votes) : null;
-
   return (
     <>
-    <img src="../public/img/marvel-logo.svg" alt="logo" />
+      <img src="../public/img/marvel-logo.svg" alt="logo" />
       <div className="cards-container">
         {!heroes.length && <span>No heroes</span>}
         {heroes.map((hero) => (
